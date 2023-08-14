@@ -30,7 +30,7 @@ The steps for this Challenge are divided into the following sections:
 
 4. Interact with the deployed smart contract to transfer and withdraw funds.
 
-5. Sample execution results can be found in the [Execution_Results Folder](https://github.com/mikenguyenx/20_solidity_smart_contract/tree/main/Execution_Results) folder.
+5. Sample execution results can be found in the [Execution_Results](https://github.com/mikenguyenx/20_solidity_smart_contract/tree/main/Execution_Results) folder.
 
 ## Smart Contract Features
 
